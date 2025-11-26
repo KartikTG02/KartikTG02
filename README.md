@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Kartik! 👋
 
 ### 👨‍💻 Data Engineer | BI Developer
 
@@ -28,11 +28,11 @@ I am a passionate technology professional focused on building robust data archit
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight" alt="Your Name's Github Stats" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITL̥HUB_USERNAME_HERE&show_icons=true&theme=tokyonight" alt="Your Name's Github Stats" width="45%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-gulpadia/)
