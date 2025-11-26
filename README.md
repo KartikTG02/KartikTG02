@@ -1,6 +1,6 @@
 # Hi there, I'm [Your Name]! 👋
 
-### 👨‍💻 Senior IT Executive | Data Engineer | BI Developer
+### 👨‍💻 Data Engineer | BI Developer
 
 I am a passionate technology professional focused on building robust data architectures and turning complex datasets into actionable business intelligence. Currently specializing in **Data Engineering** and **Cloud Solutions**.
 
