@@ -15,7 +15,7 @@ I am a passionate technology professional focused on building robust data archit
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white)
 
 **Visualization & BI**
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)![Streamlit](https://img.shields.io/badge/streamlit-D3D3D3?style=for-the-badge&logo=streamlit&logoColor=red)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![Streamlit](https://img.shields.io/badge/streamlit-D3D3D3?style=for-the-badge&logo=streamlit&logoColor=red)
 
 ---
 
