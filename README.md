@@ -20,7 +20,6 @@ I am a passionate technology professional focused on building robust data archit
 ---
 
 ### 🔭 Current Projects & Focus
-- **Migrating to Microsoft Fabric:** Exploring the unified analytics platform to streamline data workflows.
 - **Serverless Pipelines:** Building event-driven architectures using Cloud Functions and Kafka.
 - **High-Performance Compute:** Experimenting with hardware optimization for data processing and VR applications.
 
